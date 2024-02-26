@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: ChickenDiseaseClassifier
+Version: 0.0.0
+Summary: A small python package for CNN app
+Home-page: https://github.com/nikhilp047/Chicken-Disease-Classification
+Author: nikhilp047
+Author-email: pooarynikhil047@gmail.com
+Project-URL: Bug Tracker, https://github.com/nikhilp047/Chicken-Disease-Classification/issues
