@@ -1,0 +1,188 @@
+[2024-02-26 14:31:22,430]: INFO: main: Welcome to my custom log]
+[2024-02-26 14:32:10,351: INFO: main: Welcome to my custom log]
+[2024-03-08 14:14:39,149: INFO: main: Welcome to my custom log]
+[2024-03-08 14:14:41,881: INFO: main: Welcome to my custom log]
+[2024-03-09 01:01:20,720: INFO: common: yaml file: c:\Users\pooja\Documents\Cloud\Project\MLandCloud Projj\Chicken-Disease-Classification\params.yaml loaded successfully]
+[2024-03-09 01:02:02,294: INFO: common: yaml file: c:\Users\pooja\Documents\Cloud\Project\MLandCloud Projj\Chicken-Disease-Classification\params.yaml loaded successfully]
+[2024-03-09 01:02:53,043: INFO: common: yaml file: c:\Users\pooja\Documents\Cloud\Project\MLandCloud Projj\Chicken-Disease-Classification\params.yaml loaded successfully]
+[2024-03-09 01:04:57,372: INFO: common: yaml file: c:\Users\pooja\Documents\Cloud\Project\MLandCloud Projj\Chicken-Disease-Classification\params.yaml loaded successfully]
+[2024-03-09 01:07:39,624: INFO: common: yaml file: c:\Users\pooja\Documents\Cloud\Project\MLandCloud Projj\Chicken-Disease-Classification\params.yaml loaded successfully]
+[2024-03-09 01:08:07,969: INFO: common: yaml file: c:\Users\pooja\Documents\Cloud\Project\MLandCloud Projj\Chicken-Disease-Classification\params.yaml loaded successfully]
+[2024-03-09 01:10:22,370: INFO: common: yaml file: c:\Users\pooja\Documents\Cloud\Project\MLandCloud Projj\Chicken-Disease-Classification\params.yaml loaded successfully]
+[2024-03-09 01:10:45,211: INFO: common: yaml file: c:\Users\pooja\Documents\Cloud\Project\MLandCloud Projj\Chicken-Disease-Classification\params.yaml loaded successfully]
+[2024-03-09 01:13:15,602: INFO: common: yaml file: c:\Users\pooja\Documents\Cloud\Project\MLandCloud Projj\Chicken-Disease-Classification\params.yaml loaded successfully]
+[2024-03-09 01:24:48,007: INFO: common: yaml file: c:\Users\pooja\Documents\Cloud\Project\MLandCloud Projj\Chicken-Disease-Classification\params.yaml loaded successfully]
+[2024-03-09 01:26:05,481: INFO: common: yaml file: c:\Users\pooja\Documents\Cloud\Project\MLandCloud Projj\Chicken-Disease-Classification\params.yaml loaded successfully]
+[2024-03-09 01:28:02,008: INFO: common: yaml file: c:\Users\pooja\Documents\Cloud\Project\MLandCloud Projj\Chicken-Disease-Classification\config\config.yaml loaded successfully]
+[2024-03-09 01:28:02,011: INFO: common: yaml file: c:\Users\pooja\Documents\Cloud\Project\MLandCloud Projj\Chicken-Disease-Classification\params.yaml loaded successfully]
+[2024-03-09 01:28:02,016: INFO: common: created directory at: artifacts]
+[2024-03-09 01:28:02,021: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-03-09 01:28:03,405: INFO: 976340117: artifacts/data_ingestion/data.zip download! with following info: 
+Server: GitHub.com
+Date: Fri, 08 Mar 2024 19:58:02 GMT
+Content-Type: text/html; charset=utf-8
+Vary: X-PJAX, X-PJAX-Container, Turbo-Visit, Turbo-Frame, Accept-Encoding, Accept, X-Requested-With
+ETag: W/"91dec772abefa6fd93fd46d31ff5b787"
+Cache-Control: max-age=0, private, must-revalidate
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+X-Frame-Options: deny
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 0
+Referrer-Policy: no-referrer-when-downgrade
+Content-Security-Policy: default-src 'none'; base-uri 'self'; child-src github.com/assets-cdn/worker/ gist.github.com/assets-cdn/worker/; connect-src 'self' uploads.github.com www.githubstatus.com collector.github.com raw.githubusercontent.com api.github.com github-cloud.s3.amazonaws.com github-production-repository-file-5c1aeb.s3.amazonaws.com github-production-upload-manifest-file-7fdce7.s3.amazonaws.com github-production-user-asset-6210df.s3.amazonaws.com api.githubcopilot.com objects-origin.githubusercontent.com *.actions.githubusercontent.com wss://*.actions.githubusercontent.com productionresultssa0.blob.core.windows.net/ productionresultssa1.blob.core.windows.net/ productionresultssa2.blob.core.windows.net/ productionresultssa3.blob.core.windows.net/ productionresultssa4.blob.core.windows.net/ productionresultssa5.blob.core.windows.net/ productionresultssa6.blob.core.windows.net/ productionresultssa7.blob.core.windows.net/ productionresultssa8.blob.core.windows.net/ productionresultssa9.blob.core.windows.net/ productionresultssa10.blob.core.windows.net/ productionresultssa11.blob.core.windows.net/ productionresultssa12.blob.core.windows.net/ productionresultssa13.blob.core.windows.net/ productionresultssa14.blob.core.windows.net/ productionresultssa15.blob.core.windows.net/ productionresultssa16.blob.core.windows.net/ productionresultssa17.blob.core.windows.net/ productionresultssa18.blob.core.windows.net/ productionresultssa19.blob.core.windows.net/ github-production-repository-image-32fea6.s3.amazonaws.com github-production-release-asset-2e65be.s3.amazonaws.com insights.github.com wss://alive.github.com; font-src github.githubassets.com; form-action 'self' github.com gist.github.com objects-origin.githubusercontent.com; frame-ancestors 'none'; frame-src viewscreen.githubusercontent.com notebooks.githubusercontent.com; img-src 'self' data: github.githubassets.com media.githubusercontent.com camo.githubusercontent.com identicons.github.com avatars.githubusercontent.com github-cloud.s3.amazonaws.com objects.githubusercontent.com secured-user-images.githubusercontent.com/ user-images.githubusercontent.com/ private-user-images.githubusercontent.com opengraph.githubassets.com github-production-user-asset-6210df.s3.amazonaws.com customer-stories-feed.github.com spotlights-feed.github.com objects-origin.githubusercontent.com *.githubusercontent.com; manifest-src 'self'; media-src github.com user-images.githubusercontent.com/ secured-user-images.githubusercontent.com/ private-user-images.githubusercontent.com github-production-user-asset-6210df.s3.amazonaws.com gist.github.com; script-src github.githubassets.com; style-src 'unsafe-inline' github.githubassets.com; upgrade-insecure-requests; worker-src github.com/assets-cdn/worker/ gist.github.com/assets-cdn/worker/
+Set-Cookie: _gh_sess=LeugzmYhkJuFxl3r4v6hcAQLPJ0vkQyiwAD0ctks902DtuyqsTLP%2BZO0xHpSt8vPA3sftTcGgcpJn9boA8prhXtQYmLl1oJ9CMSzJsJCTWpIrwXN51l4m9fnx%2BwLO6yljdaWMyMPVy5bar%2F8TnmJskr%2BBhi5iZ64WlbeDUF5II6MSewzzwAg%2BDztdjBtV%2Fs%2BLmzO59oQsHlACT7lfaJgSKWwDyNVk83lMywIMmxP%2BBHlNI35No9XyczmYCzbtPePYZIzy6LJ9AABJNTMljjgvQ%3D%3D--%2FbTmOqvN3e3Fwi%2Bh--vM%2BrMGH2ltEVnCSvm1GdHw%3D%3D; Path=/; HttpOnly; Secure; SameSite=Lax
+Set-Cookie: _octo=GH1.1.1098777639.1709927882; Path=/; Domain=github.com; Expires=Sat, 08 Mar 2025 19:58:02 GMT; Secure; SameSite=Lax
+Set-Cookie: logged_in=no; Path=/; Domain=github.com; Expires=Sat, 08 Mar 2025 19:58:02 GMT; HttpOnly; Secure; SameSite=Lax
+Accept-Ranges: bytes
+Transfer-Encoding: chunked
+X-GitHub-Request-Id: FABF:160B7C:A0D339:B221FD:65EB6DCA
+connection: close
+
+]
+[2024-03-09 01:31:47,963: INFO: common: yaml file: c:\Users\pooja\Documents\Cloud\Project\MLandCloud Projj\Chicken-Disease-Classification\config\config.yaml loaded successfully]
+[2024-03-09 01:31:47,965: INFO: common: yaml file: c:\Users\pooja\Documents\Cloud\Project\MLandCloud Projj\Chicken-Disease-Classification\params.yaml loaded successfully]
+[2024-03-09 01:31:47,972: INFO: common: created directory at: artifacts]
+[2024-03-09 01:31:47,975: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-03-09 01:31:49,337: INFO: 1109111444: artifacts/data_ingestion/data.zip download! with following info: 
+Server: GitHub.com
+Date: Fri, 08 Mar 2024 20:01:48 GMT
+Content-Type: text/html; charset=utf-8
+Vary: X-PJAX, X-PJAX-Container, Turbo-Visit, Turbo-Frame, Accept-Encoding, Accept, X-Requested-With
+ETag: W/"de9559b9f3465871942ed18eddba85e5"
+Cache-Control: max-age=0, private, must-revalidate
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+X-Frame-Options: deny
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 0
+Referrer-Policy: no-referrer-when-downgrade
+Content-Security-Policy: default-src 'none'; base-uri 'self'; child-src github.com/assets-cdn/worker/ gist.github.com/assets-cdn/worker/; connect-src 'self' uploads.github.com www.githubstatus.com collector.github.com raw.githubusercontent.com api.github.com github-cloud.s3.amazonaws.com github-production-repository-file-5c1aeb.s3.amazonaws.com github-production-upload-manifest-file-7fdce7.s3.amazonaws.com github-production-user-asset-6210df.s3.amazonaws.com api.githubcopilot.com objects-origin.githubusercontent.com *.actions.githubusercontent.com wss://*.actions.githubusercontent.com productionresultssa0.blob.core.windows.net/ productionresultssa1.blob.core.windows.net/ productionresultssa2.blob.core.windows.net/ productionresultssa3.blob.core.windows.net/ productionresultssa4.blob.core.windows.net/ productionresultssa5.blob.core.windows.net/ productionresultssa6.blob.core.windows.net/ productionresultssa7.blob.core.windows.net/ productionresultssa8.blob.core.windows.net/ productionresultssa9.blob.core.windows.net/ productionresultssa10.blob.core.windows.net/ productionresultssa11.blob.core.windows.net/ productionresultssa12.blob.core.windows.net/ productionresultssa13.blob.core.windows.net/ productionresultssa14.blob.core.windows.net/ productionresultssa15.blob.core.windows.net/ productionresultssa16.blob.core.windows.net/ productionresultssa17.blob.core.windows.net/ productionresultssa18.blob.core.windows.net/ productionresultssa19.blob.core.windows.net/ github-production-repository-image-32fea6.s3.amazonaws.com github-production-release-asset-2e65be.s3.amazonaws.com insights.github.com wss://alive.github.com; font-src github.githubassets.com; form-action 'self' github.com gist.github.com objects-origin.githubusercontent.com; frame-ancestors 'none'; frame-src viewscreen.githubusercontent.com notebooks.githubusercontent.com; img-src 'self' data: github.githubassets.com media.githubusercontent.com camo.githubusercontent.com identicons.github.com avatars.githubusercontent.com github-cloud.s3.amazonaws.com objects.githubusercontent.com secured-user-images.githubusercontent.com/ user-images.githubusercontent.com/ private-user-images.githubusercontent.com opengraph.githubassets.com github-production-user-asset-6210df.s3.amazonaws.com customer-stories-feed.github.com spotlights-feed.github.com objects-origin.githubusercontent.com *.githubusercontent.com; manifest-src 'self'; media-src github.com user-images.githubusercontent.com/ secured-user-images.githubusercontent.com/ private-user-images.githubusercontent.com github-production-user-asset-6210df.s3.amazonaws.com gist.github.com; script-src github.githubassets.com; style-src 'unsafe-inline' github.githubassets.com; upgrade-insecure-requests; worker-src github.com/assets-cdn/worker/ gist.github.com/assets-cdn/worker/
+Set-Cookie: _gh_sess=RF7uOMoZw9u61ZrLjqGTFxXw0o8%2BwiTnLr%2B2e6s2uJw2tG9SH6yn6fkHSPcWGl14q9TR6v9XygY4x6trbgjK5eUX1j5h4a3rzNE7GF9aA02aGE%2FgAZ1J7aBIkkMlpcSEb9adOGf9PLW54vV2UkX79Bj8%2BXHsRjyZZBOj7RFfTAkQ%2FQyG%2BOozO%2FokoM4b6TEYD4ARndEIKgYRlsA9Jmp%2BSzSHqitcgsTEYX%2FdmenhhxbuW2nO7TlvQDQEVlMNenYgvnrSBwL9HwV4EJjpuqOf1A%3D%3D--whDadET6s1%2BN7gIm--eBcHkkvhyEJBTCNL5AQIjA%3D%3D; Path=/; HttpOnly; Secure; SameSite=Lax
+Set-Cookie: _octo=GH1.1.1792777286.1709928108; Path=/; Domain=github.com; Expires=Sat, 08 Mar 2025 20:01:48 GMT; Secure; SameSite=Lax
+Set-Cookie: logged_in=no; Path=/; Domain=github.com; Expires=Sat, 08 Mar 2025 20:01:48 GMT; HttpOnly; Secure; SameSite=Lax
+Accept-Ranges: bytes
+Transfer-Encoding: chunked
+X-GitHub-Request-Id: FAE2:16C64A:A26122:B3BB37:65EB6EAC
+connection: close
+
+]
+[2024-03-09 01:32:14,515: INFO: common: yaml file: c:\Users\pooja\Documents\Cloud\Project\MLandCloud Projj\Chicken-Disease-Classification\config\config.yaml loaded successfully]
+[2024-03-09 01:32:14,519: INFO: common: yaml file: c:\Users\pooja\Documents\Cloud\Project\MLandCloud Projj\Chicken-Disease-Classification\params.yaml loaded successfully]
+[2024-03-09 01:32:14,524: INFO: common: created directory at: artifacts]
+[2024-03-09 01:32:14,528: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-03-09 01:32:15,984: INFO: 1109111444: artifacts/data_ingestion/data.zip download! with following info: 
+Server: GitHub.com
+Date: Fri, 08 Mar 2024 20:02:15 GMT
+Content-Type: text/html; charset=utf-8
+Vary: X-PJAX, X-PJAX-Container, Turbo-Visit, Turbo-Frame, Accept-Encoding, Accept, X-Requested-With
+ETag: W/"9af70f08be00eb4492aca3a40725ff20"
+Cache-Control: max-age=0, private, must-revalidate
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+X-Frame-Options: deny
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 0
+Referrer-Policy: no-referrer-when-downgrade
+Content-Security-Policy: default-src 'none'; base-uri 'self'; child-src github.com/assets-cdn/worker/ gist.github.com/assets-cdn/worker/; connect-src 'self' uploads.github.com www.githubstatus.com collector.github.com raw.githubusercontent.com api.github.com github-cloud.s3.amazonaws.com github-production-repository-file-5c1aeb.s3.amazonaws.com github-production-upload-manifest-file-7fdce7.s3.amazonaws.com github-production-user-asset-6210df.s3.amazonaws.com api.githubcopilot.com objects-origin.githubusercontent.com *.actions.githubusercontent.com wss://*.actions.githubusercontent.com productionresultssa0.blob.core.windows.net/ productionresultssa1.blob.core.windows.net/ productionresultssa2.blob.core.windows.net/ productionresultssa3.blob.core.windows.net/ productionresultssa4.blob.core.windows.net/ productionresultssa5.blob.core.windows.net/ productionresultssa6.blob.core.windows.net/ productionresultssa7.blob.core.windows.net/ productionresultssa8.blob.core.windows.net/ productionresultssa9.blob.core.windows.net/ productionresultssa10.blob.core.windows.net/ productionresultssa11.blob.core.windows.net/ productionresultssa12.blob.core.windows.net/ productionresultssa13.blob.core.windows.net/ productionresultssa14.blob.core.windows.net/ productionresultssa15.blob.core.windows.net/ productionresultssa16.blob.core.windows.net/ productionresultssa17.blob.core.windows.net/ productionresultssa18.blob.core.windows.net/ productionresultssa19.blob.core.windows.net/ github-production-repository-image-32fea6.s3.amazonaws.com github-production-release-asset-2e65be.s3.amazonaws.com insights.github.com wss://alive.github.com; font-src github.githubassets.com; form-action 'self' github.com gist.github.com objects-origin.githubusercontent.com; frame-ancestors 'none'; frame-src viewscreen.githubusercontent.com notebooks.githubusercontent.com; img-src 'self' data: github.githubassets.com media.githubusercontent.com camo.githubusercontent.com identicons.github.com avatars.githubusercontent.com github-cloud.s3.amazonaws.com objects.githubusercontent.com secured-user-images.githubusercontent.com/ user-images.githubusercontent.com/ private-user-images.githubusercontent.com opengraph.githubassets.com github-production-user-asset-6210df.s3.amazonaws.com customer-stories-feed.github.com spotlights-feed.github.com objects-origin.githubusercontent.com *.githubusercontent.com; manifest-src 'self'; media-src github.com user-images.githubusercontent.com/ secured-user-images.githubusercontent.com/ private-user-images.githubusercontent.com github-production-user-asset-6210df.s3.amazonaws.com gist.github.com; script-src github.githubassets.com; style-src 'unsafe-inline' github.githubassets.com; upgrade-insecure-requests; worker-src github.com/assets-cdn/worker/ gist.github.com/assets-cdn/worker/
+Set-Cookie: _gh_sess=8ixGvQtjTqE0AsI3ZQw%2BJUsZcpsbW%2BD2YILXOXzdzpnxR1qYQrpS4JThSWAkI6Yk7gjDpAmWcqK6U8CgAez5CiZgm%2Fj6EeogbotFPP9%2FAHukVCp3lrzICpEas8F06SWyHs7Mb5NDG4JlBafPU9yvAJYZXuxDeW3KYA6kuANXOnpIPQYNBLJVJuX75prBgw2BGo2AXp2CiUjxFeNqOtSJuEWCOjuq9ojk2qQGQ5bHSfs%2Fy1EtT5%2F%2Br%2FfJQweiaEN9IGypmWL%2BLWrxctUEYpnrLg%3D%3D--77YgECML4UyecR2L--H%2FDQeiWvIa7o5py4k0tpXQ%3D%3D; Path=/; HttpOnly; Secure; SameSite=Lax
+Set-Cookie: _octo=GH1.1.2072727034.1709928135; Path=/; Domain=github.com; Expires=Sat, 08 Mar 2025 20:02:15 GMT; Secure; SameSite=Lax
+Set-Cookie: logged_in=no; Path=/; Domain=github.com; Expires=Sat, 08 Mar 2025 20:02:15 GMT; HttpOnly; Secure; SameSite=Lax
+Accept-Ranges: bytes
+Transfer-Encoding: chunked
+X-GitHub-Request-Id: FAE7:15F5E3:A6FCB7:B85801:65EB6EC7
+connection: close
+
+]
+[2024-03-09 13:15:02,261: INFO: common: yaml file: c:\Users\pooja\Documents\Cloud\Project\MLandCloud Projj\Chicken-Disease-Classification\params.yaml loaded successfully]
+[2024-03-09 13:15:02,508: INFO: common: yaml file: c:\Users\pooja\Documents\Cloud\Project\MLandCloud Projj\Chicken-Disease-Classification\config\config.yaml loaded successfully]
+[2024-03-09 13:15:02,516: INFO: common: yaml file: c:\Users\pooja\Documents\Cloud\Project\MLandCloud Projj\Chicken-Disease-Classification\params.yaml loaded successfully]
+[2024-03-09 13:15:02,524: INFO: common: created directory at: artifacts]
+[2024-03-09 13:15:02,529: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-03-09 13:15:04,053: INFO: 1109111444: artifacts/data_ingestion/data.zip download! with following info: 
+Server: GitHub.com
+Date: Sat, 09 Mar 2024 07:45:04 GMT
+Content-Type: text/html; charset=utf-8
+Vary: X-PJAX, X-PJAX-Container, Turbo-Visit, Turbo-Frame, Accept-Encoding, Accept, X-Requested-With
+ETag: W/"4b107c6999bcf4b93775d120fd198d24"
+Cache-Control: max-age=0, private, must-revalidate
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+X-Frame-Options: deny
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 0
+Referrer-Policy: no-referrer-when-downgrade
+Content-Security-Policy: default-src 'none'; base-uri 'self'; child-src github.com/assets-cdn/worker/ gist.github.com/assets-cdn/worker/; connect-src 'self' uploads.github.com www.githubstatus.com collector.github.com raw.githubusercontent.com api.github.com github-cloud.s3.amazonaws.com github-production-repository-file-5c1aeb.s3.amazonaws.com github-production-upload-manifest-file-7fdce7.s3.amazonaws.com github-production-user-asset-6210df.s3.amazonaws.com api.githubcopilot.com objects-origin.githubusercontent.com *.actions.githubusercontent.com wss://*.actions.githubusercontent.com productionresultssa0.blob.core.windows.net/ productionresultssa1.blob.core.windows.net/ productionresultssa2.blob.core.windows.net/ productionresultssa3.blob.core.windows.net/ productionresultssa4.blob.core.windows.net/ productionresultssa5.blob.core.windows.net/ productionresultssa6.blob.core.windows.net/ productionresultssa7.blob.core.windows.net/ productionresultssa8.blob.core.windows.net/ productionresultssa9.blob.core.windows.net/ productionresultssa10.blob.core.windows.net/ productionresultssa11.blob.core.windows.net/ productionresultssa12.blob.core.windows.net/ productionresultssa13.blob.core.windows.net/ productionresultssa14.blob.core.windows.net/ productionresultssa15.blob.core.windows.net/ productionresultssa16.blob.core.windows.net/ productionresultssa17.blob.core.windows.net/ productionresultssa18.blob.core.windows.net/ productionresultssa19.blob.core.windows.net/ github-production-repository-image-32fea6.s3.amazonaws.com github-production-release-asset-2e65be.s3.amazonaws.com insights.github.com wss://alive.github.com; font-src github.githubassets.com; form-action 'self' github.com gist.github.com objects-origin.githubusercontent.com; frame-ancestors 'none'; frame-src viewscreen.githubusercontent.com notebooks.githubusercontent.com; img-src 'self' data: github.githubassets.com media.githubusercontent.com camo.githubusercontent.com identicons.github.com avatars.githubusercontent.com github-cloud.s3.amazonaws.com objects.githubusercontent.com secured-user-images.githubusercontent.com/ user-images.githubusercontent.com/ private-user-images.githubusercontent.com opengraph.githubassets.com github-production-user-asset-6210df.s3.amazonaws.com customer-stories-feed.github.com spotlights-feed.github.com objects-origin.githubusercontent.com *.githubusercontent.com; manifest-src 'self'; media-src github.com user-images.githubusercontent.com/ secured-user-images.githubusercontent.com/ private-user-images.githubusercontent.com github-production-user-asset-6210df.s3.amazonaws.com gist.github.com; script-src github.githubassets.com; style-src 'unsafe-inline' github.githubassets.com; upgrade-insecure-requests; worker-src github.com/assets-cdn/worker/ gist.github.com/assets-cdn/worker/
+Set-Cookie: _gh_sess=tYl0bQiacIfo0VoK8E4xeiVtOXvzJUF3Hh%2BauksKP6qZhKBxflmlvzPj4i0CxwRi4Qf%2Fs3vmtA7jjHLb%2BWDOuN51MxpRCLNG7RsOQOFfqZD0eCa1JFLnmQQ7r%2BfUD85hy5JHhANgWIMHbNOmgA5I2U2xsULFsOQq9MenYOnK0PyZaBh%2BXOB3trV7dUNtQAoKBtlaqhGHJqIotltv5RPXhQurP6L4%2Fm7H9BjhqkrSKImwHPc0hE0psGX3%2FcNQWsZtMzxbk1WPxIv%2FWqPUk9inSg%3D%3D--OkMSIc75strZ4bUM--opyrDN5rjHXGAcbdjFd35Q%3D%3D; Path=/; HttpOnly; Secure; SameSite=Lax
+Set-Cookie: _octo=GH1.1.1644988784.1709970304; Path=/; Domain=github.com; Expires=Sun, 09 Mar 2025 07:45:04 GMT; Secure; SameSite=Lax
+Set-Cookie: logged_in=no; Path=/; Domain=github.com; Expires=Sun, 09 Mar 2025 07:45:04 GMT; HttpOnly; Secure; SameSite=Lax
+Accept-Ranges: bytes
+Transfer-Encoding: chunked
+X-GitHub-Request-Id: 545A:1612DF:CADFF6:E45608:65EC1380
+connection: close
+
+]
+[2024-03-09 13:19:30,609: INFO: common: yaml file: c:\Users\pooja\Documents\Cloud\Project\MLandCloud Projj\Chicken-Disease-Classification\config\config.yaml loaded successfully]
+[2024-03-09 13:19:30,614: INFO: common: yaml file: c:\Users\pooja\Documents\Cloud\Project\MLandCloud Projj\Chicken-Disease-Classification\params.yaml loaded successfully]
+[2024-03-09 13:19:30,614: INFO: common: created directory at: artifacts]
+[2024-03-09 13:19:30,624: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-03-09 13:19:42,818: INFO: 1109111444: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 11616915
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "adf745abc03891fe493c3be264ec012691fe3fa21d861f35a27edbe6d86a76b1"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: B556:F3ED9:1F9CC6:29EE93:65EC148C
+Accept-Ranges: bytes
+Date: Sat, 09 Mar 2024 07:49:34 GMT
+Via: 1.1 varnish
+X-Served-By: cache-del21743-DEL
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1709970573.182595,VS0,VE977
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 51e9b297c30fac1c8c5c206ede46212a3dbe19d8
+Expires: Sat, 09 Mar 2024 07:54:34 GMT
+Source-Age: 1
+
+]
+[2024-03-09 13:19:43,768: INFO: 1109111444: unzip]
+[2024-03-09 14:49:40,842: INFO: main: >>> stage Data ingestion stage started <<<<<]
+[2024-03-09 14:49:40,847: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-03-09 14:49:40,849: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-09 14:49:40,849: INFO: common: created directory at: artifacts]
+[2024-03-09 14:49:40,855: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-03-09 14:49:53,898: INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 11616915
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "adf745abc03891fe493c3be264ec012691fe3fa21d861f35a27edbe6d86a76b1"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 6652:324C2:347BCF:449F03:65EC29AD
+Accept-Ranges: bytes
+Date: Sat, 09 Mar 2024 09:19:44 GMT
+Via: 1.1 varnish
+X-Served-By: cache-del21741-DEL
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1709975983.182842,VS0,VE949
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 1aee68dad065f3ccbda9b4fc852921060f46960a
+Expires: Sat, 09 Mar 2024 09:24:44 GMT
+Source-Age: 1
+
+]
+[2024-03-09 14:49:54,776: INFO: data_ingestion: unzip]
+[2024-03-09 14:49:54,777: INFO: main: >>>> stage Data ingestion stage completed <<<< 
+
+x=================x]

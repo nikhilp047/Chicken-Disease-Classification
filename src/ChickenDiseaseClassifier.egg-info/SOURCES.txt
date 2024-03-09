@@ -12,3 +12,4 @@ src/ChickenDiseaseClassifier/constants/__init__.py
 src/ChickenDiseaseClassifier/entity/__init__.py
 src/ChickenDiseaseClassifier/pipeline/__init__.py
 src/ChickenDiseaseClassifier/utils/__init__.py
+src/ChickenDiseaseClassifier/utils/common.py

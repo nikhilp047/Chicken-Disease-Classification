@@ -2,7 +2,7 @@ import os
 from pathlib import Path
 import logging
 
-logging.basicConfig(level=logging.INFO,format='[%(asctime)s]:%(messages)s:')
+logging.basicConfig(level=logging.INFO,format='[%(asctime)s]:%(message)s:')
 
 project_name = 'ChickenDdiseaseClassifier'
 
@@ -41,4 +41,4 @@ for filepath in list_of_files:
             pass
             logging.info(f"Creating empty file: {filepath}")
     else:
-        logging.info(f"{filename} is already exists")
+        logging.info(f"{filename} already exists")
