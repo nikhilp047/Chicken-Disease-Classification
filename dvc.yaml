@@ -30,6 +30,7 @@ stages:
       - config/config.yaml
       - artifacts/data_ingestion/Chicken-fecal-images
       - artifacts/prepare_base_model
+      - params.yaml
     params: 
       - IMAGE_SIZE
       - EPOCHS

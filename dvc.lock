@@ -61,19 +61,23 @@ stages:
       hash: md5
       md5: fab248c1c54c7dadf682e6a26a3f20c1
       size: 801
+    - path: params.yaml
+      hash: md5
+      md5: 84c7385175a4a1e23d486755a48e2cce
+      size: 144
     - path: src/ChickenDiseaseClassifier/components/prepare_callbacks.py
       hash: md5
       md5: 48c724eb2574c53e54346b6d475e8c23
       size: 1107
     - path: src/ChickenDiseaseClassifier/pipeline/stage_03_training.py
       hash: md5
-      md5: dba963c660f8342c4c455fa1d9e2682c
-      size: 1298
+      md5: 145c18e7892468bc4b962601afcf37c3
+      size: 1294
     params:
       params.yaml:
         AUGMENTATION: true
         BATCH_SIZE: 16
-        EPOCHS: 1
+        EPOCHS: 20
         IMAGE_SIZE:
         - 224
         - 224
@@ -81,7 +85,7 @@ stages:
     outs:
     - path: artifacts/training/model.h5
       hash: md5
-      md5: 15ed11e44bd70974bd727b409b54f7fb
+      md5: 5023b8e38939a0332921ee2c908600e1
       size: 59340720
   evaluation:
     cmd: python src/ChickenDiseaseClassifier/pipeline/stage_04_evaluation.py
@@ -93,7 +97,7 @@ stages:
       nfiles: 390
     - path: artifacts/training/model.h5
       hash: md5
-      md5: 15ed11e44bd70974bd727b409b54f7fb
+      md5: 5023b8e38939a0332921ee2c908600e1
       size: 59340720
     - path: config/config.yaml
       hash: md5
@@ -113,5 +117,5 @@ stages:
     outs:
     - path: scores.json
       hash: md5
-      md5: dbd000582ada4536f215bc7e95af1b85
-      size: 57
+      md5: 91f271ce42a828602aeb09f14fdf2b61
+      size: 72
